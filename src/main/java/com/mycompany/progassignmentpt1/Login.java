@@ -1,6 +1,6 @@
 /*  Name & Surname: Rivo Mathye
  * ST number: ST10519788
- *
+ * Module code: PROG5121
 */
 package com.mycompany.progassignmentpt1;
 
