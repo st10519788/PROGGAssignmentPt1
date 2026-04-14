@@ -1,4 +1,7 @@
-
+/*  Name & Surname: Rivo Mathye
+ *
+ *
+*/
 package com.mycompany.progassignmentpt1;
 
 class Login {
